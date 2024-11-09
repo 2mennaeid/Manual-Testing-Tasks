@@ -1,7 +1,7 @@
 # Testing-Tasks
 
 ## Overview
-This repository contains manual test cases and bug reports for different tasks related to user authentication, registration, and bug reporting.
+This repository contains manual test cases and bug reports for different tasks related to user authentication, registration, bug reporting , Job Application and Personal Information Form
 
 ## Task Descriptions
 - **Mobile Number Authentication Test Cases**: Includes test cases for mobile number authentication with OTP for login.
